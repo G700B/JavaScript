@@ -1,0 +1,43 @@
+
+.title{
+    background-color: gray;
+    padding: 25px;
+    width: 700px;
+    margin: 30px auto;
+    border-radius: 20px;
+}
+
+.options{
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+button{
+    width: 400px;
+    height: 90px;
+    padding: 30px;
+    margin: 20px;
+    background-color: rgb(133, 50, 50);
+    font-family:serif;
+    font-size: medium;
+    border-radius: 20px;
+}
+body{
+    background-image: url("../img/3.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    
+}
+button:hover{
+background-color: rgb(179, 3, 3);
+}
+img {
+    display: flex;
+    justify-content: center;
+    margin: 30px auto;
+    height: 500px;
+}
